@@ -1,4 +1,5 @@
-# Noot Noot?
+# Not Scary At All
+The world's scariest game
 
 <!-- ### Watch the video here -->
 
