@@ -5,10 +5,10 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "pack-darwin-x64": "electron-packager . 'Not Scary At All' --platform=darwin --arch=x64 --icon=assets/AppIcons/icon.icns --out=builds --ignore=builds",
-    "pack-darwin-arm64": "electron-packager . 'Not Scary At All' --platform=darwin --arch=arm64 --icon=assets/AppIcons/icon.icns --out=builds --ignore=builds",
-    "pack-win32-x64": "electron-packager . 'Not Scary At All' --platform=win32 --arch=x64 --icon=assets/AppIcons/icon.ico --out=builds --ignore=builds",
-    "pack-linux-x64": "electron-packager . 'Not Scary At All' --platform=linux --arch=x64 --icon=assets/AppIcons/icon.png --out=builds --ignore=builds"
+    "pack-darwin-x64": "electron-packager . 'Not scary at all' --platform=darwin --arch=x64 --icon=assets/AppIcons/icon.icns --out=builds --ignore=builds",
+    "pack-darwin-arm64": "electron-packager . 'Not scary at all' --platform=darwin --arch=arm64 --icon=assets/AppIcons/icon.icns --out=builds --ignore=builds",
+    "pack-win32-x64": "electron-packager . 'Not scary at all' --platform=win32 --arch=x64 --icon=assets/AppIcons/icon.ico --out=builds --ignore=builds",
+    "pack-linux-x64": "electron-packager . 'Not scary at all' --platform=linux --arch=x64 --icon=assets/AppIcons/icon.png --out=builds --ignore=builds"
   },
   "repository": "https://github.com/virejdasani/Not-Scary-At-All",
   "keywords": [
