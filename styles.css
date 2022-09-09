@@ -1,0 +1,13 @@
+html {
+  color: white;
+  height: 100%;
+  /* border: 1px solid red; */
+}
+
+#scary-vid {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 110%;
+  min-height: 110%;
+}
