@@ -1,6 +1,6 @@
 {
   "name": "not-scary-at-all",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "this game is not scary at all. trust me.",
   "main": "main.js",
   "scripts": {

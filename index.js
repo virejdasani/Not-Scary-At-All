@@ -10,14 +10,14 @@ function randRange(data) {
 
 function toggleSomething() {
   var timeArray = new Array(
-    20000,
-    30000,
-    17500,
-    27500,
-    20000,
+    100000,
+    52000,
+    44500,
+    68500,
+    150000,
     60000,
-    10000,
-    15000,
+    40000,
+    105000,
     50000
   );
 
