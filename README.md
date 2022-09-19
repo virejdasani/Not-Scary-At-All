@@ -1,9 +1,9 @@
 # Not Scary At All
 The world's scariest game
 
-Video soon!
+### Watch the video here
 
-<!-- ### Watch the video here -->
+https://github.com/virejdasani/Not-Scary-At-All
 
 ### Download it here
 
