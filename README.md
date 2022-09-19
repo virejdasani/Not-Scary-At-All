@@ -3,7 +3,7 @@ The world's scariest game
 
 ### Watch the video here
 
-https://github.com/virejdasani/Not-Scary-At-All
+https://youtu.be/VvCX7SHuYQw
 
 ### Download it here
 
